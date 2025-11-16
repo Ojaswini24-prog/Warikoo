@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+header h1 {
+    text-align: center;
+    font-size: 45px;
+    color: bisque;
+}
+header{
+    padding: 35px;
+    background-color: rgb(12, 69, 69);
+}
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav {
+    background-color: rgb(21, 118, 115);
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    float: left;
+    padding: 18px;
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    color: purple;
+    padding: 20px;
+}
+iframe{
+    padding: 10px;
+}
+#section-1{
+    background-color: rgb(167, 234, 221);
+}
+#section-2{
+    background-color: rgb(58, 201, 167);
+}
+#section-3{
+    background-color: rgb(25, 137, 118);
+}
+#section-4{
+    background-color: darkgrey;
+    text-align: center;
+}
+nav a:hover{
+    color: crimson;
+}
+footer a:hover{ 
+    color:red
+}
